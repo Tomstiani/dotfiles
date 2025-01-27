@@ -22,6 +22,7 @@ return {
 				mappings = {
 					["\\"] = "close_window",
 				},
+				position = "float",
 			},
 		},
 	},
