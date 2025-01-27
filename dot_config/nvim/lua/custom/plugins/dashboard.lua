@@ -4,8 +4,6 @@ function GoTo(dir)
 
 		vim.cmd("cd " .. path)
 		vim.cmd("Neotree filesystem reveal dir=" .. path)
-
-		vim.cmd("Telescope find_files cwd=" .. path)
 	end
 end
 
