@@ -90,6 +90,7 @@ alias c='clear'
 alias monorepo='cd ~/work/ma/frontend-monorepo'
 alias aws-mfa='pipx run aws-mfa'
 alias t='~/.tmux/plugins/t-smart-tmux-session-manager/bin/t'
+alias cm='chezmoi'
 
 # Shell integrations
 eval "$(fzf --zsh)"
